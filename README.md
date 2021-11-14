@@ -1,2 +1,3 @@
 # order-summary-component
- order summary screen for learning purposes
+ Order summary screen for learning purposes
+ [![Preview](https://imgur.com/MoG9knM)
